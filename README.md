@@ -10,3 +10,5 @@ TheMealDB 사이트의 api로 레시피 데이터 보여주는 앱
 Free recipe API and database
 
 [TheMealDB](https://www.themealdb.com/)
+
+<img width="250" height="600" alt="Screenshot_20251120_103020" src="https://github.com/user-attachments/assets/082bc4a1-5546-4d3c-ac51-c9a511e1f491" />
