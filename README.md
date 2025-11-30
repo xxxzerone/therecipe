@@ -12,3 +12,4 @@ Free recipe API and database
 [TheMealDB](https://www.themealdb.com/)
 
 <img width="250" height="600" alt="Screenshot_20251120_103020" src="https://github.com/user-attachments/assets/082bc4a1-5546-4d3c-ac51-c9a511e1f491" />
+<img width="250" height="600" alt="Screenshot_20251130_172113" src="https://github.com/user-attachments/assets/29d864ca-0332-401b-b206-f562f28c01ce" />
